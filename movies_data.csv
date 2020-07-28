@@ -1,0 +1,704 @@
+Movie,Target,Budget,BoxOffice,Rating,Votes,Year
+Batti Gul Meter Chalu,2,50,37,6.3,1552,2018
+Dangal,6,90,370,8.5,105480,2016
+Manmarziyaan,3,30,26,7,1836,2018
+Sui Dhaaga: Made in India,4,50,55,6.9,1342,2018
+Stree,6,25,127,8.3,7801,2018
+Manto,2,8,3,7.9,622,2018
+Pataakha,2,20,6.5,7.7,392,2018
+3 Idiots,6,55,202,8.4,282358,2009
+PK,6,85,340,8.2,127703,2014
+Padman,5,40,81,8.1,10917,2018
+Taare Zameen Par,6,18,62,8.4,129918,2007
+Mom,3,37,37,7.3,5498,2017
+Gangs of Wasseypur,6,18,51,8.2,64797,2012
+October,4,31,38,7.6,7747,2018
+Nawabzaade,2,7,4,5.4,522,2018
+Sanju,6,100,342,8.3,29680,2018
+Ghajini,6,52,162,7.3,48684,2008
+Parmanu: The Story of Pokhran,4,45,66,8,11885,2018
+Bareilly's Barfi,5,22,34.5,7.5,9144,2017
+Raazi,6,37,123.8,7.9,11143,2018
+Race 3,5,100,175,2.1,25672,2018
+Love Sonia,1,10,1.75,7.2,229,2018
+Drishyam,4,65,77,8.3,49564,2015
+Gold,4,90,105,8,5451,2018
+Padmaavat,4,215,302,7,19316,2018
+Dhadak,5,40,74,4.1,6341,2018
+A Wednesday,6,3,12,8.2,65146,2008
+Rang De Basanti,5,28,53,8.2,95810,2006
+Bhavesh Joshi Superhero,1,17,2,7.7,2949,2018
+Saheb Biwi Aur Gangster 3,2,25,8,4.5,379,2018
+Almost Single,3,20,17,7,3343,2017
+Naam Shabana,5,20,36.7,6.3,4040,2017
+Jab Harry Met Sejal,2,90,64.3,5.4,15483,2017
+Baahubali: The Beginning,4,118,130,8.2,88652,2015
+"O Heart, It Is Difficult",4,92,113,5.8,17340,2016
+Laila Majnu,1,10,3,8.4,396,2018
+Mitron,1,15,3.75,7.2,185,2018
+The Lunchbox,4,22,25,7.8,40530,2013
+Sonu's Titu and Titu's Sweety,6,40,108.9,7.2,12226,2018
+Friend's Wedding,5,45,81.3,3,9485,2018
+The Spectacle,3,75,68.3,7.2,18533,2015
+Masaan,2,6,3.6,8.1,16578,2015
+Secret Superstar,4,50,63.4,8,13695,2017
+Black Friday,2,5,3,8.6,15148,2004
+Trapped,2,5,2.9,7.6,6310,2016
+Satyameva Jayate,5,40,80.5,6.4,2833,2018
+Genius,1,35,4.3,4.9,402,2018
+Haider,4,37,49,8.2,44173,2014
+102 Not Out,5,25,52,7.5,3674,2018
+Dhoom 3,5,175,280,5.4,38794,2013
+Talvar,5,20,30.9,8.2,23226,2015
+Shahid,6,0.65,3.6,8.3,11641,2012
+Missing,1,7,0.86,5.9,1135,2018
+Toilet: A Love Story,6,40,134.25,7.3,12987,2017
+Kaalakaandi,1,25,6.95,6.1,1404,2018
+Raid,6,40,103.1,7.5,8015,2018
+Hope Aur Hum,1,12,1,6.3,143,2018
+Karwaan,3,20,19.2,8,2953,2018
+Kahaani,6,15,57,8.2,49391,2012
+Aiyaary,2,28,17,5.2,2766,2018
+Bajirao Mastani,5,120,186,7.2,26660,2015
+Blackmail,4,20,20.35,7.1,4418,2018
+Ugly,5,6,9.2,8.1,15392,2013
+Sultan,6,90,301,7.1,31638,2016
+Mersal,4,120,164,8.1,20298,2017
+Baby,4,75,97.2,8.1,46079,2015
+Flying Punjab,4,48,60.3,7.8,21334,2016
+Bang Bang,4,140,181,5.5,19158,2014
+Rebel 2,5,75,164.6,5,6505,2018
+Baahubali 2: The Conclusion,5,250,511,8.4,60155,2017
+Beyond the Clouds,2,5,2,7,926,2017
+Bajrangi Bhaijaan,6,90,320,8,59787,2015
+Mohenjo Daro,2,100,58,5.8,9079,2016
+English Vinglish,5,26,53,7.9,28822,2012
+Twins 2,5,65,138,3.9,6570,2017
+Tiger Zinda Hai,5,150,339,6.1,17331,2017
+Raman Raghav 2.0,5,3.5,7,7.3,9399,2016
+Tubelight,4,100,121,4.2,11652,2017
+Zindagi Na Milegi Dobara,5,55,90,8.1,55552,2011
+Dilwale,4,130,149,5.3,27685,2015
+Dil Dhadakne Do,3,86,76.8,6.8,11893,2015
+Pari,3,30,28.9,6.6,3756,2018
+Love Will Take Over,4,15,22,5.5,80,2018
+Airlift,6,30,128,8.1,45697,2016
+Talaash,5,40,93,7.3,34657,2012
+Dobaara: See Your Evil,1,10,2,4.1,273,2017
+Body 2,6,13,36,3,2983,2012
+Barfi!,6,40,105,8.1,65933,2012
+Shaadi Mein Zaroor Aana,2,15,11,7.8,7745,2017
+Madras Cafe,4,34,44,7.7,20030,2013
+My Name Is Khan,5,60,96,8,87173,2010
+Dev.D,4,11,15,8.1,24929,2009
+Newton,6,9,22.8,7.8,10237,2017
+Dear Zindagi,5,45,68.1,7.7,29657,2016
+Hate Story,4,9,12,5.3,3025,2012
+Pink,5,29,68,8.2,29375,2016
+Highway,4,20,29,7.6,22127,2014
+Hindi Medium,6,23,69,7.8,14725,2017
+Raajneeti,5,60,94,7.1,14694,2010
+Hiccup,5,20,46.2,7.6,4975,2018
+Omkara,3,25,23,8.1,16347,2006
+Fitoor,2,60,19.3,5.4,3639,2016
+Wealthy,5,95,145,6.9,34781,2017
+Queen,6,12,61,8.3,52493,2013
+Battalion,1,25,7.2,6.2,316,2018
+Kaabil,5,55,135.1,7.1,21371,2017
+Dhoom 2,5,42,82,6.5,20495,2006
+Ribbon,1,8,0.36,6.8,210,2017
+Gurgaon,4,5,6.7,6.6,757,2017
+Baaghi,5,47,76.8,5.2,5326,2016
+Yamla Pagla Deewana Phir Se...,2,30,9.6,5.9,460,2018
+2 States,5,45,101,6.9,20999,2014
+Guzaarish,2,50,29,7.5,14593,2010
+High Jack,1,7,0.34,5.7,118,2018
+Rangoon,2,70,24,5.8,3068,2017
+Detective Jagga,2,80,56,6.4,7157,2017
+Yeh Jawaani Hai Deewani,6,75,198,7,32126,2013
+Kapoor & Sons,5,37,73.5,7.8,18445,2016
+Chennai Express,5,115,208,6,42851,2013
+Half Girlfriend,4,48,61,4.2,4929,2017
+Cocktail,5,35,75,6.2,11730,2012
+Mukkabaaz,4,10,10.5,8.1,3978,2017
+Vodka Diaries,2,3,1,5.8,693,2018
+Paan Singh Tomar,5,7,15,8.2,28144,2012
+Kites,2,82,48,6.1,11008,2010
+Gunday,5,51,98,2.1,55838,2014
+Khosla Ka Ghosla!,4,4,5,8.3,18640,2006
+Rockstar,4,66,69,7.7,32859,2011
+Dostana,4,30,44,6.5,12339,2008
+Babumoshai Bandookbaaz,4,10,13.1,7,805,2017
+Rab Ne Bana Di Jodi,6,25,84,7.2,38642,2008
+Three,2,34,19.1,7.3,9250,2016
+Omerta,2,10,3.5,7,533,2017
+Delhi Belly,5,23,55,7.6,23300,2011
+Connection,2,50,25.7,4,2295,2017
+"The Master, the Wife and the Gangster Return",4,19,22,6.9,3408,2013
+As Long As I Live,5,50,102,6.8,47218,2012
+Mulk,4,18,21.1,5.7,9176,2018
+Parched,1,12,2,7.6,3755,2015
+Chak de! India,6,22,67,8.2,63332,2007
+OK Darling,3,27,23.6,5.1,3002,2017
+Jab We Met,5,15,31,7.9,40027,2007
+Dum Laga Ke Haisha,5,13,30,7.5,13469,2015
+Sanam Teri Kasam,2,19,9,7.3,7700,2016
+Pyaar Ka Punchnama,5,7,13,7.7,16717,2011
+Happy New Year,4,150,204,5.2,30402,2014
+Happy Phirr Bhag Jayegi,2,30,20.2,5,366,2018
+Hate Story IV,4,20,22.4,3.3,978,2018
+Don 2,4,75,106,7.1,44894,2011
+Ajji,1,3.5,0.08,7,418,2017
+Haraamkhor,1,5,1.35,6.4,2642,2015
+Mubarakan,2,70,55.6,5.6,2723,2017
+Rocky Handsome,2,42,25.2,6.8,6021,2016
+Mary Kom,6,15,61,6.8,8879,2014
+Gulaal,2,10,5,8.1,11808,2009
+Ra.One,3,130,114,4.8,34594,2011
+Madaari,2,24,18.1,7.6,10261,2016
+Tashan,3,31,30,3.9,4316,2008
+Joker,2,47,20,2.6,4382,2012
+Om Shanti Om,5,40,78,6.7,33754,2007
+Goliyon Ki Rasleela Ram-Leela,5,88,152,6.4,15798,2013
+Vishwaroopam 2,2,55,28,6.4,1424,2018
+Chef,2,14.7,6.4,5.6,1473,2017
+Shubh Mangal Saavdhan,5,24,43.1,6.9,4910,2017
+City Lights,2,9,7,7.3,3664,2014
+Bhaag Milkha Bhaag,6,30,109,8.2,51997,2013
+NH10,5,21,32.4,7.2,10752,2015
+Look Again and Again,2,46,31.3,5.3,5070,2016
+OMG,6,20,81,8.2,40877,2012
+Naam Hai Akira,3,30,28.75,5.9,3285,2016
+Special 26,5,42,71,8,42741,2013
+Phobia,2,9,3,6.9,2115,2016
+Postmortem Of Love 2,6,25,63.95,7.3,12107,2015
+"The Master, the Wife and the Gangster",5,5,8,7.2,3513,2011
+Aashiqui 2,6,15,81,7,23728,2013
+Krrish 3,5,95,235,5.3,18203,2013
+Krrish,5,40,72,6.4,15231,2006
+A Flying Jatt,2,50,38.7,3.4,2744,2016
+One Night Stand,1,14,3.05,3.2,826,2016
+Warrior,4,30,32.4,7.8,1563,2018
+Fan,3,105,85,7.2,37188,2016
+The Bride of Badrinath,6,44,117,6.2,7910,2017
+Bombay Velvet,1,110,24.4,5.7,4825,2015
+Hate Story 3,5,24,52.7,4.5,2565,2015
+"She Smiles, She's Snared!",4,26,37,6.9,12003,2014
+Ek Tha Tiger,6,75,188,5.5,25351,2012
+M.S. Dhoni: The Untold Story,4,104,133,7.7,26484,2016
+Mastizaade,4,30,39,2.4,2167,2016
+Mumbai Diaries,4,13,14,7.1,11232,2010
+Lucknow Central,2,32,11.2,6.1,1976,2017
+Firangi,2,25,10.3,4.8,724,2017
+Aligarh,1,18,2.5,7.8,4326,2015
+Udaan,2,5,3,8.2,37478,2010
+Shaitan,2,12,9,7.3,7147,2011
+Robber,4,28,33,7.3,12754,2013
+Kai po che!,5,30,48,7.6,23322,2013
+Fearless,6,42,131,6.3,24261,2010
+7 Khoon Maaf,2,25,20,6.2,4723,2011
+A Death in the Gunj,1,8,1,7.6,2560,2016
+Monsoon Shootout,1,5,1,6.4,635,2013
+Kambakkht Ishq,2,65,47,4,5968,2009
+A Gentleman,2,60,20.6,6.2,3793,2017
+The Ghazi Attack,3,25,21,7.6,8695,2017
+Neerja,6,25,75.6,7.7,17066,2016
+Love Games,1,14,4.03,4.4,643,2016
+Simran,2,30,17.25,5.4,2345,2017
+Race 2,4,84,100,5.3,13565,2013
+Welcome to New York,1,30,2.4,2.5,284,2018
+Hunterrr,5,9,13.6,7,4832,2015
+Jolly LLB 2,6,45,117,7.3,17399,2017
+Tumhari Sulu,5,20,36.15,7,3269,2017
+Jodhaa Akbar,4,40,56,7.6,25434,2008
+Guru,5,22,46,7.8,18967,2007
+Rustom,5,65,127.5,7.1,18330,2016
+Love Impossible!,2,14,6,4.7,2696,2010
+Badlapur,5,29,50,7.5,17885,2015
+Don,4,38,51,7.2,30601,2006
+Scoundrel,4,35,41,7.4,14719,2009
+Vicky Donor,6,10,41,7.8,33244,2012
+Guest iin London,2,25,10.65,5.4,1035,2017
+Piku,5,50,80,7.6,23032,2015
+Student of the Year,4,59,70,5.5,11813,2012
+Magnificent,2,68,43.1,3.7,4002,2015
+Hisss,1,28,6,3,1343,2010
+Phillauri,4,21,27.1,6.1,2875,2017
+1920 London,4,12,15.45,4.1,1222,2016
+Kahaani 2,3,35,32.85,6.6,4001,2016
+Mirzya,1,35,10.5,4.7,1469,2016
+Blue,2,60,39,3.8,3945,2009
+Kings,3,90,78.1,5,3513,2017
+Hotel Salvation,1,5,0.47,7.2,1157,2016
+Carefree,3,70,60,3.8,6009,2016
+Love Nowadays,4,50,67,6.8,12977,2009
+The Dirty Picture,6,25,82,6.7,7614,2011
+Wazir,3,45,41,7.1,14959,2016
+Race,4,46,61,6.6,11013,2008
+I Hate Love Stories,5,23,44,5.6,6677,2010
+Brothers,3,90,82.47,6.7,10333,2015
+A Villain,6,35,98,6.5,13939,2014
+Agneepath,5,60,119,7,19732,2012
+Khoobsurat,4,23,26,6.4,6401,2014
+Welcome 2 Karachi,2,20,8.5,4.3,911,2015
+Fukrey Returns,6,30,80.3,6.5,3593,2017
+Munna Michael,3,40,34,3.4,2109,2017
+Alone,4,18,23.74,3.8,1396,2015
+Thank You,2,61,45,4.7,4440,2011
+Hotchpotch Again,5,100,205.7,5,6526,2017
+Housefull 3,4,85,109,5.2,6352,2016
+Ragini MMS 2,5,19,47,3.9,2368,2014
+Karthik Calling Karthik,3,20,19,7,8883,2010
+Titli,1,11,2,7.6,3312,2014
+Azhar,3,38,35,5.8,4626,2016
+Hate Story 2,5,15,23,4.4,1765,2014
+Happy Bhag Jayegi,4,20,29,6.4,4256,2016
+Action Jackson,2,93,58,3.3,2691,2014
+Desi Boys,3,54,46,5.9,11438,2011
+The Maze,5,30,52,7.3,17292,2007
+Table No. 21,4,9,12,7.1,9848,2013
+Raanjhanaa,6,36,91,7.6,25592,2013
+Meri Pyaari Bindu,2,22,9,5.7,2639,2017
+Life in a Metro,5,9,15,7.4,9237,2007
+Lipstick Under My Burkha,5,8,18,6.9,5002,2016
+Sarkar 3,1,35,10,4.8,1501,2017
+Inkaar,2,14,11,6.1,2234,2013
+Sarbjit,3,30,29.3,7.3,3490,2016
+Son of Sardaar,4,67,89,4,7789,2012
+Players,2,55,30,4.1,3335,2012
+Shanghai,4,23,24,7.3,8697,2012
+Detective Byomkesh Bakshy!,4,19,26.55,7.6,13499,2015
+Hamari Adhuri Kahani,3,45,37.57,6.7,4373,2015
+Housefull,5,47,73,5.4,10559,2010
+Gabbar is Back,4,72,85.5,7.2,20349,2015
+Ladies vs. Ricky Bahl,5,20,31,6,7439,2011
+Dedh Ishqiya,2,37,26,7.1,6348,2014
+Force 2,2,45,36,6.3,3920,2016
+Prem Ratan Dhan Payo,4,180,211.5,4.7,15141,2015
+Knock Out,1,30,7,6,1734,2010
+Kick,6,100,309,5.4,20823,2014
+The Attacks of 26/11,2,23,16,6.9,3966,2013
+Namastey London,4,31,42,7.3,18698,2007
+Freaky Ali,2,19,14.7,5,2256,2016
+The Bride of Humpty Sharma,5,33,73,6.1,9284,2014
+Rocket Singh: Salesman of the Year,4,16,21,7.5,15330,2009
+Tanu Weds Manu Returns,6,40,150,7.7,22653,2015
+Teen Patti,1,18,5,4.1,1249,2010
+Matru ki Bijlee ka Mandola,3,45,39,5.7,5639,2013
+Dishoom,4,65,70,5.1,5280,2016
+Bodyguard,5,70,145,4.6,19545,2011
+Taxi No. 9211,5,10,19,7.3,7780,2006
+Sacrifice,2,50,24,5.7,4074,2009
+Kabali,5,100,196,6.4,9791,2016
+Behen Hogi Teri,1,15,2,5.4,1223,2017
+Welcome,4,48,70,6.8,14288,2007
+Mahabharat,1,25,2,5.5,283,2013
+The Fondness,4,30,32,5.2,2486,2014
+Singham,6,38,98,6.7,12181,2011
+Dolly Ki Doli,3,25,20.05,4.6,2323,2015
+Vivah,6,8,49,6.6,7842,2006
+Kis Kisko Pyaar Karoon,6,16,43,5.7,4986,2015
+Heroic Antics,5,25,54,5.3,7026,2014
+Happy Ending,2,47,22,5.5,2943,2014
+Shivaay,4,80,101,6.3,8684,2016
+Band Baaja Baaraat,5,15,23,7.2,12786,2010
+Bewakoofiyaan,2,22,14,5.5,3109,2014
+Ishaqzaade,5,19,47.5,6.6,5748,2012
+Go Goa Gone,4,19,25,6.6,10058,2013
+Raavan,2,55,29,5.4,3719,2010
+Nishabd,3,9,8,5.5,1413,2007
+Dil Juunglee,1,13,1,5.9,122,2018
+Nil Battey Sannata,3,8,7,8.5,3993,2015
+Commando 2,4,20,25,5.2,2127,2017
+Bhoomi,2,30,12,5.4,1335,2017
+Wake Up Sid,4,18,27,7.6,23508,2009
+Ready,6,40,121,4.7,12997,2011
+"LSD: Love, Sex Aur Dhokha",5,5,9,7.1,4641,2010
+Welcome Back,3,100,96.7,4.2,4852,2015
+Luv Shuv Tey Chicken Khurana,4,7,10.5,6.6,3171,2012
+Daddy,2,21,13.7,6.4,1188,2017
+Ghanchakkar,4,30,38,5.7,4189,2013
+Vishwaroopam,1,95,19,8.4,37382,2013
+Wanted,4,52,60,6.6,16104,2009
+Great Grand Fun,2,35,15,3.7,1793,2016
+Patiala House,3,40,35,5.9,7975,2011
+Any Body Can Dance 2,5,60,106,5.5,4280,2015
+Grand Fun,6,34,92,4.3,5156,2013
+Irada,1,7.5,1.1,6.3,908,2017
+My Love,2,45,21,5.4,6674,2007
+Aarakshan,2,53,42,6.2,4393,2011
+Manjhi: The Mountain Man,5,9,14,8,15327,2015
+Luck by Chance,2,18,13,7.1,8574,2009
+Partner,5,28,60,5.7,9541,2007
+Brave Man,2,68,43,1.7,7200,2013
+Rukh,1,5,0.65,6.4,285,2017
+Keep at It Munna Bhai,6,19,74,8.1,36387,2006
+Katti Batti,2,32,24.5,4.9,2357,2015
+Murder 2,6,13,48,6.2,5500,2011
+Jai Ho,4,102,116,5.3,14914,2014
+Kidnap,2,31,21,4.6,2021,2008
+Watch Out Ladies,5,23,37,6.2,8812,2008
+Father,5,15,31,7.2,10273,2009
+Daas Dev,1,12,1.5,5.2,130,2018
+Holiday: A Soldier Is Never Off Duty,5,50,113,7.4,21738,2014
+Ek Thi Daayan,5,26,45,5.7,3422,2013
+Chillar Party,2,6,4,7.5,5256,2011
+Begum Jaan,4,19,20.9,5.6,2151,2017
+Shootout at Lokhandwala,5,18,30,7.1,8299,2007
+Awarapan,2,18,8,7.2,5206,2007
+Tu Hai Mera Sunday,1,7,0.3,7.8,760,2016
+Jaane Tu... Ya Jaane Na,6,15,55,7.5,22233,2008
+Ek Chalis Ki Last Local,2,3,2,7.3,4068,2007
+Oye Lucky! Lucky Oye!,2,12,7,7.8,13796,2008
+Fukrey,5,19,36,6.9,9175,2013
+Do Lafzon Ki Kahani,3,4,4,6.5,1090,2016
+Hey Baby,4,36,47,6.1,11139,2007
+Raja Natwarlal,2,47,27,6.1,3428,2014
+I'm Your Hero,4,41,54,5.3,6293,2014
+Anger,2,38,13,7,2800,2010
+Tezz,2,52,16,3.9,1850,2012
+Billu,3,23,23,6.2,8851,2009
+1921,4,15,16,4.3,652,2018
+Dum Maaro Dum,4,31,32,6.2,3533,2011
+8 x 10 Tasveer,2,35,16,5.9,4898,2009
+Hail the Water of the Ganges,4,30,36,5.7,2221,2016
+Housefull 2,5,72,112,5.4,11257,2012
+Rowdy Rathore,6,45,131,5.8,18293,2012
+Tanu Weds Manu,5,18,38,6.7,11180,2011
+Aa Gaya Hero,1,20,1.15,3.7,278,2017
+Aisha,3,18,16,5,3415,2010
+Finding Fanny,5,12,29,5.8,5692,2014
+Kyaa Kool Hain Hum 3,4,28,30.25,1.9,3753,2016
+Agent Vinod,2,60,44,5.1,6361,2012
+Jolly LLB,5,14,31,7.5,13355,2013
+Indu Sarkar,2,10,5,6.1,1111,2017
+R... Rajkumar,4,55,68,5.2,4557,2013
+Love Story 2050,1,40,11,2.6,2053,2008
+Mere Brother Ki Dulhan,5,32,58,5.9,8025,2011
+Machine,1,25,3.15,2.6,531,2017
+Rock On 2,1,45,12,5,1653,2016
+Main Aur Charles,2,10,6,6.3,1424,2015
+Sameer,1,4,0.05,5.8,153,2017
+London Dreams,2,63,26,5.4,3693,2009
+Waiting,2,8,2.85,7.2,1351,2015
+99,4,9,11,7.3,2401,2009
+Let's Go to Delhi,3,10,10,6.8,2660,2011
+Ki & Ka,4,35,52,5.8,4475,2016
+No One Killed Jessica,5,15,29,7.2,9432,2011
+Money Hai Toh Honey Hai,1,18,4,2.8,483,2008
+Luck,2,37,21,4.8,1986,2009
+Sanam Re,5,20.5,31,3.2,2436,2016
+Ragini MMS,5,6,11,4.9,2151,2011
+Humshakals,3,64,53,1.8,6879,2014
+Bullet Royale,2,52,34,5,3354,2013
+Tere Bin Laden,4,6,8,7.2,9425,2010
+MSG the Warrior: Lion Heart,2,18,14,7.6,7293,2016
+Nautanki Saala!,4,16,23,5.9,3641,2013
+Fate Connection,3,27,23,5.2,4581,2008
+Me and Mrs Khanna,1,38,8,3.6,2339,2009
+Reign Of Sarkar,4,27,35,6.8,6565,2008
+Ta Ra Rum Pum,4,30,39,5.6,3555,2007
+Eklavya: The Royal Guard,2,30,19,6.2,2878,2007
+Ramayana: The Epic,1,7,1,5.9,339,2010
+The Wedding of Veer,1,20,3,3.1,239,2018
+Badmaa$h Company,4,29,33,6,5382,2010
+Veer,2,63,39,4.7,6435,2010
+Roy,4,40,43.5,3.3,6506,2015
+Singh Is Bling,3,92,90.2,5.4,6472,2015
+1971,1,5,1,8,1059,2007
+Mausam,2,49,32,4.8,4805,2011
+Blood Money,3,9,9,5.2,893,2012
+Saala Khadoos,2,20,15,7.7,9516,2016
+Veerappan,2,15,9.4,5.2,515,2016
+Peepli (Live),5,14,30,7.5,10482,2010
+Lafangey Parindey,4,19,23,5.3,1776,2010
+Patel Ki Punjabi Shaadi,2,3,1.55,3.8,240,2017
+Calendar Girls,2,12,6,4.1,683,2015
+Ferrari Ki Sawaari,4,20,27,6.4,4457,2012
+Dor,3,3,3,8,4938,2006
+This Damn Life,3,11,11,7.5,4062,2011
+Filmistaan,3,8,7,7.3,3027,2012
+Shootout at Wadala,4,48,54,5.9,5380,2013
+Johnny Gaddaar,2,7.5,5,7.9,9482,2007
+Murder 3,5,15,23,4.9,2066,2013
+Rang Rasiya,1,20,5,7.1,1601,2008
+Hero,4,28,33.37,3.7,1922,2015
+The Legend of Drona,1,43,9,2.1,2193,2008
+Bank Chor,2,15,8,5.9,1882,2017
+1920,5,7,11,6.4,2342,2008
+D-Day,2,28,19,7.2,7960,2013
+Stanley Ka Dabba,4,4,6,7.9,4854,2011
+Crook: It's Good to Be Bad,2,23,11,5.1,1541,2010
+Dark wind,1,6,1,9,231,2017
+Commando,4,17,20,6.1,3660,2013
+Not a Love Story,2,8,5,5,654,2011
+Rann,2,21,8,7,2044,2010
+Bhoothnath,4,20,24,6.3,6244,2008
+Phas Gaye Re Obama,2,6,3,7.5,4390,2010
+Shaadi Ke Side Effects,3,43,39,5.6,3459,2014
+Do Dooni Chaar,3,6,5,7.6,4228,2010
+Aamir,3,3,3,7.7,9111,2008
+A Wonderful Story About Strange Love,5,25,62,6.3,10075,2009
+One Me and One You,4,32,40,5.8,5802,2012
+Teri Meri Kahaani,2,41,28,4.7,3511,2012
+Shaapit: The Cursed,3,9,8,5.6,638,2010
+Bhoothnath Returns,3,36,34,6.8,4146,2014
+Dharam Sankat Mein,2,14,9,6.3,1680,2015
+Often 2,2,18,5.6,4.1,314,2017
+"I, Me aur Main",2,20,9,4.6,1637,2013
+Player 786,4,60,65,4.4,5421,2012
+Junooniyat,2,12,4,4.3,543,2016
+Tees Maar Khan,4,45,60,2.5,9741,2010
+Apne,4,20,22,6,2280,2007
+Once Upon a Time in Mumbaai,5,35,58,7.4,13806,2010
+Yaariyan,6,10,39,2.7,2753,2014
+Ab Tak Chhappan 2,2,18,7,5.8,1063,2015
+What's Your Zodiac Sign?,2,32,10,4.7,2291,2009
+3 Storeys,2,10,3.9,7.3,245,2018
+Break Ke Baad,2,22,17,5.2,3508,2010
+Shab,1,5,0.22,4.4,164,2017
+Wajah Tum Ho,2,13,10.4,4.4,920,2016
+Singh Is King,4,50,67,5.8,12453,2008
+Ram Gopal Varma Ki Aag,2,21,8,1.9,6296,2007
+Game,1,34,8,5.1,1699,2011
+Laaga Chunari Mein Daag: Journey of a Woman,3,20,18,5.4,2064,2007
+Jattu Engineer,2,9,7,6.3,3271,2017
+Once Upon a Time in Mumbai Again,2,85,59,4.8,5935,2013
+One Two Three,4,14,17,5.2,2088,2008
+Kisaan,4,15,22,5.5,226,2009
+Mickey Virus,2,11,8,6.1,2351,2013
+"Good Boy, Bad Boy",2,13,8,3.8,1430,2007
+Youngistaan,1,28,7,5.2,1655,2014
+Laali Ki Shaadi Mein Laaddoo Deewana,1,20,1.2,5.1,90,2017
+Fool N Final,2,26,18,3.4,1621,2007
+Ishqiya,3,15,14,7.3,8699,2010
+Chandni Chowk to China,2,62,30,4,6831,2009
+Nirdosh,1,8,0.6,4.2,53,2018
+U Me Aur Hum,3,25,21,6,2242,2008
+Shuddh Desi Romance,5,25,47,5.8,5423,2013
+Aladin,1,42,6,4.7,2301,2009
+Julie 2,1,5,1,2.9,229,2017
+Dirty Politics,2,11,7,2.6,514,2015
+Fugly,2,18,11,4.7,897,2014
+Teraa Surroor,4,11,14.15,2.8,746,2016
+Secret 3,5,31,68,4,3059,2012
+Nanu Ki Jaanu,1,15,4.1,7,537,2018
+Sour And Sweet,4,35,40,5.8,7992,2010
+Heroine,3,35,34,5.1,3541,2012
+Yuvvraaj,2,48,17,4.2,3463,2008
+A Tribute to Love,2,43,22,5.2,4748,2007
+Rascals,2,46,34,2.9,2218,2011
+Noor,2,22,8,3.9,1144,2017
+I Love New Year,1,15,2.3,3.9,442,2015
+Where Have You Come From?,1,18,4,4,479,2010
+Aiyyaa,2,19,6,4.4,1461,2012
+Big Brother,2,8,5,3.9,662,2007
+ABCD (Any Body Can Dance),4,27,40,6.4,5541,2013
+Zanjeer,2,60,37,3.3,2031,2013
+Red Fort Trials,1,10,0.65,8.2,322,2017
+Invitation of Love,4,32,35,6.2,4863,2014
+Hello,3,14,12,3.4,1684,2008
+Poster Boys,2,25,12.75,5.6,1156,2017
+Jail,4,6,7,6.2,1040,2009
+Action Replay,2,51,28,4.2,4710,2010
+Singham Returns,4,105,140,5.7,6130,2014
+Poorna,2,5,3.3,7.8,952,2017
+Hawaizaada,1,25,3.4,5.6,1343,2015
+The Xpose,4,15,22,3.3,1359,2014
+Kal Kissne Dekha,1,21,6,3.5,337,2009
+Halla Bol,2,27,13,6.1,1938,2008
+Dhoondte Reh Jaoge,2,10,7,5.6,552,2009
+Dhamaal,5,19,33,7.2,10286,2007
+Teree Sang: A Kidult Love Story,1,8,2,6.2,497,2009
+Phantom,2,70,54,5.7,7313,2015
+Ramaiya Vastavaiya,2,38,27,5.7,2927,2013
+Total Siyapaa,2,10,6,5,2622,2014
+Dhol,4,14,16,6.1,3737,2007
+Red Color,1,10,2,8.2,3462,2016
+Department,2,32,12,3.2,863,2012
+Bangistan,1,26,6,4.6,958,2015
+Milenge Milenge,2,12,7,4.1,1518,2010
+Zid,4,10,14,4.4,858,2014
+Fearless 2,5,80,149,4.9,12940,2012
+Hawaa Hawaai,3,11,9,7.4,1491,2014
+Hotchpotch: Fun Unlimited,5,15,29,7.4,11933,2006
+Chashme Baddoor,5,25,42,5.4,4559,2013
+Bheja Fry,6,2,9,7.7,9707,2007
+History Of Blood,2,19,9,7.6,3300,2010
+Double Dhamaal,5,29,45,3.8,2746,2011
+Jia aur Jia,1,6,0.9,6.4,93,2017
+Force,3,28,26,6.4,6103,2011
+Cash,2,32,19,3.4,1599,2007
+Naqaab,2,19,13,5.4,1166,2007
+Anaarkali of Aarah,1,5,1,6.5,986,2017
+Malamaal Weekly,6,7,27,6.8,4389,2006
+Boss,2,70,50,5.5,9306,2013
+Revolver Rani,2,27,9,4.8,1411,2014
+Yamla Pagla Deewana,6,20,54,5.7,3493,2011
+Traffic Signal,5,5,9,6.5,1276,2007
+Agyaat,2,9,6,2.9,499,2009
+Girl... In Your Love,2,30,14,5,3065,2013
+Khelein Hum Jee Jaan Sey,1,39,5,5.9,1083,2010
+Banjo,3,10,9,5,873,2016
+Zila Ghaziabad,2,36,16,3.6,1112,2013
+Gulaab Gang,2,29,16.5,6.1,1912,2014
+Dil Bole Hadippa!,3,28,24,4.6,3280,2009
+The Torn Poster Let Out a Hero,4,47,52,4.9,3679,2013
+Shamitabh,2,45,20.1,6.8,6276,2015
+Honeymoon Travels Pvt. Ltd.,4,10,12,6.1,1960,2007
+Dhaai Akshar Prem Ke,3,9,8,3.8,1137,2000
+Guddu Rangeela,2,15,8.75,5.3,758,2015
+Kill Dil,2,45,30,4.4,3425,2014
+It's Entertainment,3,81,65,4.7,6430,2014
+Kyaa Super Kool Hain Hum,5,19,42,5,3325,2012
+Kabul Express,3,12,12,6.9,2773,2006
+Bol Bachchan,5,60,100,5.5,6982,2012
+Rangrezz,2,23,7,5.1,356,2013
+God You Are Great,2,21,13,3.6,3013,2008
+Phoonk,5,5,10,3.9,1152,2008
+Always Sometimes,1,11,3,4.3,1194,2011
+Rock On!!,5,12,25,7.8,18445,2008
+Warning,1,10,3,4.8,194,2013
+Kamaal Dhamaal Malamaal,1,32,7,4.2,646,2012
+Aurangzeb,4,22,23,6.6,3529,2013
+Bhoot and Friends,2,2,1,5.1,47,2010
+Roadside Romeo,2,15,5,5.3,1076,2008
+Wounded Once Again,3,40,37,6.5,4529,2016
+Maatr,2,4,3,4.4,246,2017
+Passion,3,30,25.23,5.8,2873,2015
+Ek Paheli Leela,5,18,27.5,3.7,1489,2015
+Jhootha Hi Sahi,1,35,10,6.2,1643,2010
+13B: Fear Has a New Address,2,12,8,7.1,3601,2009
+Bajatey Raho,2,15,6,5.3,672,2013
+F.A.L.T.U,4,20,25,4.5,2651,2011
+Mission Istaanbul: Darr Ke Aagey Jeet Hai!,2,21,7,3.4,905,2008
+Finger,2,39,17,5.8,3040,2014
+Secret Reboot,4,30,30.4,4.5,1388,2016
+Hotchpotch Returns,4,35,52,5,5928,2008
+Kya Dilli Kya Lahore,1,5,1,7.5,1708,2014
+All Is Well,2,36,18.9,3.8,1340,2015
+Risk,2,6,3,6.7,498,2007
+Mujhse Fraaandship Karoge,2,9,5,7,3572,2011
+Bheja Fry 2,3,10,10,4.7,1116,2011
+Cheeni Kum,5,11,18,6.8,4320,2007
+The Crazy Four,4,18,20,4.2,1750,2008
+Lamhaa: The Untold Story of Kashmir,2,25,9,5,566,2010
+Jodi Breakers,2,21,10,3.5,1023,2012
+No Problem,2,40,29,4.2,1796,2010
+"Come, Let's Dance",2,20,14,6.4,2531,2007
+Tera Intezaar,1,15,3,1.6,122,2017
+Miss Tanakpur Haazir Ho,1,9,1.9,5.3,281,2015
+Charlie Kay Chakkar Mein,1,8,0.77,4.5,144,2015
+Thoda Pyaar Thoda Magic,3,23,22,4.9,1950,2008
+Chance Pe Dance,2,29,10,4.7,2390,2010
+All the Best: Fun Begins,4,40,42,6.1,4688,2009
+Tum Bin 2,1,15,4.5,4.8,931,2016
+The Train: Some Lines Should Never Be Crossed...,2,8,5,4.3,866,2007
+C Kkompany,2,10,4,5.4,811,2008
+Bobby Jasoos,2,26,12,5.5,1826,2014
+Tevar,2,60,40.45,4.2,2598,2015
+Mumbai Meri Jaan,4,3,4,7.8,4912,2008
+Satyagraha,3,73,65,6,4421,2013
+Creature,4,25,32,3.2,1105,2014
+Heaven 2,5,28,70,6.1,4494,2012
+Welcome to Sajjanpur,4,9,10,6.9,2780,2008
+Delhi-6,2,48,31,6,6089,2009
+Dear Maya,1,10,0.2,5.1,255,2017
+"Road, Movie",1,14,2,6.9,1561,2009
+Aa Dekhen Zara,2,17,6,5.1,785,2009
+Hit Left and Right,2,60,48,5.3,5717,2009
+Shortkut - The Con Is On,2,24,8,3.4,768,2009
+Ajab Gazabb Love,1,29,7,4.2,465,2012
+Wedding Pullav,1,10,0.52,3.9,156,2015
+Khichdi: The Movie,4,5,6,7.2,1566,2010
+Dil Toh Baccha Hai Ji,3,29,29,5.7,3161,2011
+Yamla Pagla Deewana 2,4,25,30,3.5,1538,2013
+Mr. X,2,39,24.7,3.8,1449,2015
+Mr. White Mr. Black,1,11,3,3.5,173,2008
+Dangerous Ishhq,1,26,6,4,748,2012
+Luv Ka the End,2,9,6,4.8,1214,2011
+Hotchpotch 3,5,50,108,5.4,6234,2010
+Shirin Farhad Ki Toh Nikal Padi,2,19,13,4.3,961,2012
+1920: Evil Returns,5,9,21,4.9,1485,2012
+MSG 2 the Messenger,2,23,13,7.3,8329,2015
+We Are Family,2,30,22,5.6,2475,2010
+Ek Haseena Thi Ek Deewana Tha,1,10,1.25,4.7,74,2017
+MSG: The Messenger,2,30,13,6.7,11033,2015
+Fox,1,20,3,5.4,489,2009
+Chatur Singh Two Star,1,23,3,1.8,521,2011
+Ek: The Power of One,2,21,7,5,258,2009
+Singh Saab the Great,4,30,36,5.8,1953,2013
+Bin Bulaye Baraati,1,10,3,3.8,215,2011
+Kisse Pyaar Karoon?,6,20,52,3.7,115,2009
+Black & White,2,9,6,6.2,525,2008
+Shorgul,1,9,1.5,5.7,127,2016
+Prince,5,19,29,4.2,1639,2010
+Guddu Ki Gun,1,14,2,4.8,509,2015
+Gippi,3,6,5,5.6,702,2013
+Ghost,2,9,7,2.3,200,2012
+Kuch Kuch Locha Hai,1,16,2.75,2.6,659,2015
+Joy: The Real Love Story,4,9,13,2.3,1494,2007
+Dus Kahaniyaan,2,21,8,5.8,1384,2007
+"Gandhi, My Father",2,8,4,7.4,1443,2007
+Jhoom Barabar Jhoom,4,27,28,3.8,2772,2007
+Sweetiee Weds NRI,1,8,1,3.6,175,2017
+Phoonk 2,3,8,7,3.2,442,2010
+Dhan Dhana Dhan Goal,2,19,14,4.9,2046,2007
+Get Educated: Paathshaala,2,14,11,4.9,1298,2010
+Atithi Tum Kab Jaoge?,4,22,29,6.4,4209,2010
+Mithya,4,4,5,7.1,1788,2008
+Sixteen,2,3,2,6.3,1510,2013
+London Paris New York,2,11,7,5.7,3531,2012
+Buddha Mar Gaya,2,4,3,2.5,314,2007
+Sunday,3,22,20,5.3,2202,2008
+Red: The Dark Side,3,4,4,3.4,272,2007
+Hanuman Da' Damdaar,1,10,1.4,6.5,71,2017
+Ekk Deewana Tha,2,14,6,5.8,2603,2012
+Silences,4,11,14.1,4.1,1018,2015
+Daddy Cool: Join the Fun,2,13,5,3.9,309,2009
+Toonpur Ka Superrhero,1,25,4,4.3,556,2010
+Bbuddah... Hoga Terra Baap,2,21,16,5.6,2447,2011
+LoveShhuda,1,20,3.75,4.5,488,2016
+Dilliwaali Zaalim Girlfriend,1,12,2.73,3.9,155,2015
+Chain Kulii Ki Main Kulii,1,4,1,5.4,661,2007
+Hind Ka Napak Ko Jawab,3,12,11,7.3,3912,2017
+Policegiri,2,30,20,4.1,1213,2013
+Mirza Juuliet,1,10,0.61,5.1,81,2017
+Hum Tum Aur Ghost,1,21,5,4.8,572,2010
+Heaven,6,10,30,6.9,4752,2008
+Kismet Love Paisa Dilli,1,16,3,4.3,514,2012
+EMI: Liya Hai To Chukana Padega,1,17,5,4.3,493,2008
+Shakalaka Boom Boom,2,12,7,2.7,479,2007
+Blue Mountains,1,5,0.15,5.9,35,2017
+Ranchi Diaries,1,4,1.11,7.1,63,2017
+Secret: The Mystery Continues,4,18,26,5.7,2770,2009
+Chakravyuh,2,30,17,6.9,2746,2012
+Super Nani,1,25,5,4.7,320,2014
+ROAR: Tigers of the Sundarbans,2,25,10,5.7,619,2014
+Just Married: Marriage Was Only the Beginning!,2,8,4,5.5,402,2007
+Kaafila,1,17,3,3.7,164,2007
+Haunted - 3D,6,9,26,6.3,1761,2011
+Contract,2,8,3,4.3,202,2008
+Aloo Chaat,2,10,5,5.9,823,2009
+Second Hand Husband,2,9,2.74,4.1,134,2015
+Ittefaq,4,24,30.2,4.7,62,2001
+Heroes,2,18,13,5.7,1804,2008
+Hattrick,2,9,5,4.2,372,2007
+Loot,1,15,4,3.6,274,2011
+Dil Kabaddi,2,10,4,5.8,606,2008
+Mere Baap Pehle Aap,4,20,23,5.3,1585,2008
+Jashnn: The Music Within,2,8,3,3.8,207,2009
+Nehlle Pe Dehlla,2,7,4,3.9,417,2007
+Teen Thay Bhai,1,11,3,4.3,289,2011
+Hello Hum Lallann Bol Rahe Hain,2,2,1,6.3,102,2010
+Kya Love Story Hai,2,7,3,3.8,306,2007
+Karzzzz,2,24,11,2.1,1059,2008
+Barefoot to Goa,3,1,1,5.8,131,2015
+Jai Veeru: Friends Forever,1,15,3,3.6,223,2009
+Kucch Luv Jaisaa,1,10,3,4.4,108,2011
+The Rally,1,8,0.05,8.5,213,2017
+Aagey Se Right,2,6,3,5.1,333,2009
+Ugly Aur Pagli,2,12,7,3.8,647,2008
+Bal Ganesh 2,1,3,0.2,0,0,2009
+Call for Fun,1,3,0.04,7.5,17,2017
+Daddy,2,15,5,6.6,360,2001
